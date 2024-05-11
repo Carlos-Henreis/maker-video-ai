@@ -1,0 +1,7 @@
+python-dotenv
+google-generativeai
+pyttsx3
+mutagen==1.47.0
+moviepy==1.0.3
+opencv-python==4.8.0.76
+pymenu-console
