@@ -25,6 +25,7 @@ O objetivo deste projeto é criar videos no formato de quiz (perguntas e respost
    * O programa utiliza a biblioteca `MoviePy` para criar um vídeo a partir dos arquivos de áudio gerados e de imagens de fundo.
    * As imagens de fundo são geradas a partir de templates pré-definidos, que incluem uma imagem de (selecionada aleatóriamente), o texto da pergunta e as alternativas de resposta.
    * O vídeo é renderizado e salvo em disco.
+   * O Video gerado possui dimensões para padrão de videos do tiktok (1080x1920)
 
 ## Demonstração
 Abaixo, um exemplo da execução do programa:
