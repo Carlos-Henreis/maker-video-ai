@@ -95,4 +95,3 @@ Este projeto foi desenvolvido como parte do curso de Imersão em Inteligência A
 * **OBS:** BOA PARTE DO README TAMBÉM FOI GERADO PELO GEMINI 😉
 * **OBS2:** Algumas partes do código TAMBÉM FORAM GERADAS PELO GEMINI 😱
 ---
-
