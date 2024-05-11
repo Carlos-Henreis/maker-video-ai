@@ -49,12 +49,12 @@ Video gerado:
 ### Instalação
 1. Clone o repositório
 ```bash
-git clone
+git clone https://github.com/Carlos-Henreis/maker-video-ai.git
 ```
 
 2. Navegue até a pasta do projeto
 ```bash
-cd imersao-ia-alura
+cd maker-video-ai
 ```
 
 3. Crie um ambiente virtual (recomendado) e ative-o:
